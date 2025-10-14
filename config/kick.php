@@ -9,5 +9,5 @@ return [
     'token_url'     => env('KICK_TOKEN_URL', 'https://id.kick.com/oauth/token'),
     'revoke_url'    => env('KICK_REVOKE_URL', 'https://id.kick.com/oauth/revoke'),
 
-    'scopes'        => ['user:read', 'chat:read'], // Adjust scopes as needed
+    'scopes'        => ['user:read', 'chat:read'],
 ];
