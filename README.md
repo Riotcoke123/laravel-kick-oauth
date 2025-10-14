@@ -2,7 +2,6 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Laravel Kick OAuth2 Integration</title>
 </head>
 <body>
     <h1>Laravel Kick OAuth2 Integration</h1>
