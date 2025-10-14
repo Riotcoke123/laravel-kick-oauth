@@ -26,6 +26,6 @@ class KickToken extends Model
 
     public static function calculateExpiry(int $expiresIn): Carbon
     {
-        return now()->addSeconds($expiresIn - 60); // Refresh 1 min before expiry
+        return now()->addSeconds($expiresIn - 60);
     }
 }
