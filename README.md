@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Laravel Kick OAuth2 Integration</title>
+
 </head>
 <body>
     <h1>Laravel Kick OAuth2 Integration</h1>
@@ -15,7 +15,7 @@
         <li>Auto-refresh of expired tokens</li>
         <li>Secure storage in database</li>
         <li>Artisan commands for testing &amp; refreshing tokens</li>
-    </ul>\
+    </ul>
     <h2>Installation</h2>
     <ol>
         <li>Copy the <code>app/Services</code>, <code>app/Models</code>, <code>app/Http/Controllers</code>, <code>config/kick.php</code> and migration into your Laravel project.</li>
