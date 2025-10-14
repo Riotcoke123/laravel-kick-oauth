@@ -2,7 +2,7 @@
     "name": "riotcoke/laravel-kick-oauth",
     "description": "Kick OAuth2 integration for Laravel with auto-refreshing tokens",
     "type": "library",
-    "license": "MIT",
+    "license": "GPL-3.0-or-later",
     "authors": [
         {
             "name": "RIoTCOKE",
